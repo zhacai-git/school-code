@@ -5,7 +5,7 @@
 github使用不甚熟练，还在学习中  
 如需英文注释，未来我将考虑添加
 ##### 本人个人网站:https://lzxweb.com
-##### 程序讨论论坛: http://bbs.lzxweb.com
+##### 程序讨论论坛: http://bbs.lzxweb.com （当前不可用）
 
 ### English Version
 #### The repository is owned by a student at the Northern China University of Technology.
@@ -14,4 +14,4 @@ Please star if you like, and pull request to modify the code.
 I'm not very proficient with github, still learning.  
 If English comments are needed, I will consider adding them in the future.
 ##### My personal website: https://lzxweb.com (In Chinese)
-##### Program Discussion Forum: http://bbs.lzxweb.com (In Chinese)
+##### Program Discussion Forum: http://bbs.lzxweb.com (In Chinese)(Currently unavailable)
